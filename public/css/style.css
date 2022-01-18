@@ -1,0 +1,50 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+  margin: 10px;
+}
+
+body {
+  background-color: #707070;
+  margin: 0;
+}
+body .img1, body .img2 {
+  width: 50%;
+}
+
+h1 {
+  margin: 20px;
+  font-size: 30px;
+  color: #000000;
+}
+
+p {
+  font-size: 2rem;
+  color: #000000;
+}
+
+.bottom {
+  padding-top: 30px;
+}
+
+.butn1, .butn2 {
+  background: #000000;
+  border-radius: 15px;
+  color: #707070;
+  font-size: 20px;
+  font-style: bolder;
+  padding: 16px 25px 16px 25px;
+  text-decoration: none;
+}
+.butn1:hover, .butn2:hover {
+  background: #b3009b;
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=style.css.map */
